@@ -9,7 +9,7 @@ return (
       <p>
         Temperature:{" "}
         <span style={tempStyle}>
-          {weather.temperature}°C
+          {weather.temperature}
         </span>
       </p>
       <p>Conditions: {weather.conditions}</p>
